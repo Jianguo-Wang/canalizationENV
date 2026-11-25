@@ -6,6 +6,8 @@
 
 This repository holds the single-cell spatiotemporal data and the complete R analysis code for the study *"A self-similar equation for the morphogenetic reproducibility of C. elegans"*. It tracks **2,039 embryos** — wild type, environmentally perturbed and single-gene RNAi knockdown — from the 4-cell to the 350-cell stage, and contains everything needed to reproduce the parameter estimates, the figures and the gene-discovery analysis.
 
+**Preprint:** [*A kinematic equation for the morphogenetic reproducibility of an animal*](https://doi.org/10.65215/ltspreprints.2026.04.04.000174) — 浪淘沙预印本平台 (Langtaosha Preprint Platform), 4 April 2026. Registered DOI: `10.65215/ltspreprints.2026.04.04.000174`.
+
 ---
 
 ## Contents
@@ -216,15 +218,34 @@ Intermediate products are read from and written to subfolders of `data/`:
 
 ## Data availability
 
-The raw data, processed data and code for this study are available in this repository. The spatiotemporal data of the RNAi and control embryos were originally generated for our previous study and are described there:
+The raw data, processed data and code for this study are available in this repository and accompany the preprint:
+
+> Wang, J., Xiao, L., Yang, M., Yao, Z., Deng, S., Du, Z., & He, X. (2026). *A kinematic equation for the morphogenetic reproducibility of an animal* [Preprint]. 浪淘沙预印本平台 (Langtaosha Preprint Platform). https://doi.org/10.65215/ltspreprints.2026.04.04.000174
+
+The spatiotemporal data of the RNAi and control embryos were originally generated for our previous study and are described there:
 
 > L. Xiao, D. Fan, H. Qi, Y. Cong, Z. Du, Defect-buffering cellular plasticity increases robustness of metazoan embryogenesis. *Cell Systems* **13**, 615–630.e9 (2022). https://doi.org/10.1016/j.cels.2022.07.001
 
 ## Citation and contact
 
-If you use these data or code, please cite:
+If you use these data or code, please cite the preprint:
 
-> **J. Wang, L. Xiao, M. Yang, Z. Yao, S. Deng, Z. Du & X. He.** *A self-similar equation for the morphogenetic reproducibility of C. elegans.* Manuscript in preparation (August 2026).
+> Wang, J., Xiao, L., Yang, M., Yao, Z., Deng, S., Du, Z., & He, X. (2026). *A kinematic equation for the morphogenetic reproducibility of an animal* [Preprint]. 浪淘沙预印本平台 (Langtaosha Preprint Platform). https://doi.org/10.65215/ltspreprints.2026.04.04.000174
+
+```bibtex
+@misc{wang2026kinematic,
+  title        = {A kinematic equation for the morphogenetic reproducibility of an animal},
+  author       = {Wang, Jianguo and Xiao, Long and Yang, Miaoling and Yao, Zeqi and
+                  Deng, Shanjun and Du, Zhuo and He, Xionglei},
+  year         = {2026},
+  month        = apr,
+  howpublished = {Preprint, 浪淘沙预印本平台 (Langtaosha Preprint Platform)},
+  doi          = {10.65215/ltspreprints.2026.04.04.000174},
+  url          = {https://doi.org/10.65215/ltspreprints.2026.04.04.000174}
+}
+```
+
+A revised manuscript, *A self-similar equation for the morphogenetic reproducibility of C. elegans* (August 2026), is in preparation; please cite the preprint until the journal version appears.
 
 **Corresponding authors**
 
@@ -238,7 +259,7 @@ If you use these data or code, please cite:
 
 Jianguo Wang and Long Xiao contributed equally to this work.
 
-**Licence.** No licence has been assigned to this repository yet. Please contact the corresponding authors before redistributing or reusing the data and code.
+**Licence.** The preprint is released under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). No separate licence has been assigned to the data and code in this repository yet; please contact the corresponding authors before redistributing or reusing them.
 
 ## Funding and declarations
 
