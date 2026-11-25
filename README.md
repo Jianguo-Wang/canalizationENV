@@ -218,9 +218,7 @@ Intermediate products are read from and written to subfolders of `data/`:
 
 ## Data availability
 
-The raw data, processed data and code for this study are available in this repository and accompany the preprint:
-
-> Wang, J., Xiao, L., Yang, M., Yao, Z., Deng, S., Du, Z., & He, X. (2026). *A kinematic equation for the morphogenetic reproducibility of an animal* [Preprint]. 浪淘沙预印本平台 (Langtaosha Preprint Platform). https://doi.org/10.65215/ltspreprints.2026.04.04.000174
+The raw data, processed data and code for this study are available in this repository and accompany the preprint cited [below](#citation-and-contact).
 
 The spatiotemporal data of the RNAi and control embryos were originally generated for our previous study and are described there:
 
